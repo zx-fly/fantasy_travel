@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Optional resources for Fantasy Travel 0.1.0",
+        "min_format": [88, 0],
+        "max_format": [88, 0]
+    }
+}

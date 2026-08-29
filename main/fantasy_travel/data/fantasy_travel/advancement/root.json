@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Fantasy Travel",
+        "description": "Explore a changing fantasy world.",
+        "icon": {
+            "id": "minecraft:compass"
+        },
+        "background": "minecraft:textures/block/gray_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "installed": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

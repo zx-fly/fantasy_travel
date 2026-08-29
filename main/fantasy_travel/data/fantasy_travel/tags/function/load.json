@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "fantasy_travel:combat/init",
+        "fantasy_travel:trade/init",
+        "fantasy_travel:achievement/init",
+        "fantasy_travel:world/terrain/init",
+        "fantasy_travel:world/structure/init",
+        "fantasy_travel:world/spawn/init",
+        "fantasy_travel:world/climate/init",
+        "fantasy_travel:event/init"
+    ]
+}
